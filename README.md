@@ -17,3 +17,9 @@ Designed to demonstrate proficiency in complex data manipulation and procedural 
 * **Revenue & Performance Tracking:** Generated top-10 customer payment leaderboards and calculated category-wise running totals.
 * **Network & Graph Analysis:** Built self-join CTE pipelines to map recurring actor collaborations within the same film library.
 * **Database Automation:** Developed reusable stored procedures to fetch films by custom ratings, pull top-rented inventories, and compute customer payment totals dynamically.
+
+├── database/
+│   └── maven_movies_schema.sql    # Relational schema and dataset
+├── scripts/
+│   └── maven_movies_solutions.sql # Production-ready SQL queries & routines
+└── README.md                      # Comprehensive project documentation
